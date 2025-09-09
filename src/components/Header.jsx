@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div className="absolute w-full z-10">
+    <div className="absolute w-full z-10 bg-gradient-to-b from-black to-transparent">
       <div>
         <img
           className="h-12 my-5 mx-48"
